@@ -200,4 +200,6 @@ I ran the same command again but the device was not being detected at all after 
 fwupdmgr install ./Logitech-Unifying-RQR24.03_B0027.cab 84d0e3f2a0f8b2328f7995767b23ebb40494723f --allow-older
 ```
 
-This finally updated the firmware of the reciever.
+This finally updated the firmware of the receiver.
+
+The Keyboard still misbehaves but I know what was causing the error and how to update it. I am proud that I was able to get to the bottom of this even if that didn't do what it needed to. Now I can only trash this keyboard and buy a new one.

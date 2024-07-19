@@ -1,4 +1,4 @@
 ---
-title: Welcome to quartz
+title: Welcome to my blog
 ---
-[[K230 Keyboard Firmware]]
+Here's is my first article [[K230 Keyboard Firmware]]
