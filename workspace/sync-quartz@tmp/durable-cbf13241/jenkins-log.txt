@@ -1,0 +1,20 @@
++ cd /root/quartz
++ /root/.nvm/versions/node/v20.15.1/bin/node /root/.npm/_npx/da8b89a3c1213873/node_modules/.bin/quartz sync
+
+ Quartz v4.2.3 
+
+Backing up your content
+warning: adding embedded git repository: workspace/quartz-sync
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> workspace/quartz-sync
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached workspace/quartz-sync
+hint: 
+hint: See "git help submodule" for more information.

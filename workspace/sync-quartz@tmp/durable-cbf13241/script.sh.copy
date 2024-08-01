@@ -1,0 +1,1 @@
+cd /root/quartz && /root/.nvm/versions/node/v20.15.1/bin/node /root/.npm/_npx/da8b89a3c1213873/node_modules/.bin/quartz sync
